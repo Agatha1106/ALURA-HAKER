@@ -8,4 +8,5 @@
 // @icon         https://i.imgur.com/gP1LZq9.png
 // @grant        none
 // @require  https://raw.githubusercontent.com/Agatha1106/-Alura-Destroyer/main/scripts/hawk_tuah.js
+// @require      https://raw.githubusercontent.com/Agatha1106/-Alura-Destroyer/main/hawk_tuah.js
 // ==/UserScript==
